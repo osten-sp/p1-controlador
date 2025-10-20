@@ -1,11 +1,5 @@
 /**
- * @file controladoropv2.c
- * @author Javier Rodrigo López - javier.rlopez@alumnos.upm.es, y Alberto López Rodríguez -
- * alberto.lopez.rodriguez@alumnos.upm.es
- * @date 10-11-2022
- *
- * @brief Este programa es un controlador que atiende a clientes para el cálculo de números primos a partir de cierto
- * valor
+ * @file controlador.c
  */
 
 #include <errno.h>
